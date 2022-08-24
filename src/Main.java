@@ -39,8 +39,6 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
-
-
         // задание 6
         var boxer1Weight = 78.2;
         var boxer2Weight = 82.7;
